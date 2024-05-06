@@ -1,6 +1,6 @@
 # Seja Bem-vindo!
 
-**Meu nome é Vitor, sou desenvolvedor de software formado em Ciência da Computação, estou em busca de uma nova oportunidade. Realizei estágio por 4 meses, onde tive a oportunidade de aplicar meus conhecimentos e tive experiência em framework ASP.NET Web Forms, nas linguagens HTML, CSS, JavaScript, C#, e MySQL.**
+**Meu nome é Vitor, sou Desenvolvedor .NET formado em Ciência da Computação, estou em busca de uma nova oportunidade. Realizei estágio por 4 meses, onde tive a oportunidade de aplicar meus conhecimentos e tive experiência em framework ASP.NET MVC, nas linguagens HTML, CSS, JavaScript, C#, e MySQL.**
 
 **Também estou apto a aprender novas linguagens e trabalhar em diferentes áreas da programação e estou em constante busca por aprendizado.**
 
