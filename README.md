@@ -1,8 +1,8 @@
-**Seja Bem-vindo!**
+#Seja Bem-vindo!
 
-Meu nome é Vitor, sou desenvolvedor de software formado em Ciência da Computação, fiz estágio por 4 meses, onde tive a oportunidade de aplicar meus conhecimentos e tive experiência em framework ASP.NET Web Forms, nas linguagens HTML, CSS, JavaScript, C#, e MySQL.
+**Meu nome é Vitor, sou desenvolvedor de software formado em Ciência da Computação, fiz estágio por 4 meses, onde tive a oportunidade de aplicar meus conhecimentos e tive experiência em framework ASP.NET Web Forms, nas linguagens HTML, CSS, JavaScript, C#, e MySQL.
 
-Também estou apto a aprender novas linguagens e trabalhar em diferentes áreas da programação e estou em constante busca por aprendizado.
+Também estou apto a aprender novas linguagens e trabalhar em diferentes áreas da programação e estou em constante busca por aprendizado.**
 
 **Tenho domínio:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30"/>
